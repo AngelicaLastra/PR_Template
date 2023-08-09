@@ -1,5 +1,5 @@
 # PR_Template
-<p>This repo houses a Draft PR Template (.github/pull_request_template.md). Below are some helpful guides about how to navigate it:<p>
+<p>This repo houses a Draft PR Template (<code>.github/pull_request_template.md</code>). Below are some helpful guides about how to navigate it:<p>
 
 ## Title
 <em>
